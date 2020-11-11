@@ -1,0 +1,30 @@
+.sidebar {
+  height: 100vh;
+  flex: 0.2;
+  background-color: #040404;
+  padding-left: 10px;
+  padding-right: 10px;
+  min-width: 200px;
+  color: white;
+}
+
+.sidebar > img {
+  margin-right: auto;
+  height: 70px;
+  width: 80%;
+  object-fit: contain;
+  padding: 10px;
+}
+
+.sidebar-option {
+  color: white;
+}
+
+.sidebar-title {
+  margin-left: 10px;
+  font-size: 12px;
+}
+
+.sidebar-playlist {
+  margin-left: 10px;
+}
